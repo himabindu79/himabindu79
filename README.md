@@ -5,8 +5,6 @@
 
 - 🌱  **Data Science, Machine Learning and AI enthusiast**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/himabindu65?utm_source=linktree_admin_share](https://linktr.ee/himabindu65?utm_source=linktree_admin_share)
-
 - 📫 How to reach me **himabindu4palukuri@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XY4aFxtc3mgBBbaNBbPvh_Qgwol1o5Ni/view?usp=sharing](https://drive.google.com/file/d/1XY4aFxtc3mgBBbaNBbPvh_Qgwol1o5Ni/view?usp=sharing)
